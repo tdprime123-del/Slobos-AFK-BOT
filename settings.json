@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "phantomsmp-uRnn.aternos.me",
-    "port": 47137,
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "YOUR_SECURE_PASSWORD"
     },
     "anti-afk": {
       "enabled": true,
@@ -77,8 +77,8 @@
     "place-night": true
   },
   "discord": {
-    "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "enabled": false,
+    "webhookUrl": "",
     "events": {
       "connect": true,
       "disconnect": true,
